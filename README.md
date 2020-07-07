@@ -6,6 +6,9 @@
 covid19datas.netlify.app
 Default subdomain
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2243122e-c608-41e7-9092-e76d749c5cfc/deploy-status)](https://app.netlify.com/sites/covid19datas/deploys)
+
 Options
 covid19.luhui.net
 Primary domain
